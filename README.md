@@ -1,5 +1,5 @@
 <p align="center">  
-    <img src="c8.png" alt="chip8 logo" width="160">  
+    <img src="c8.png" alt="chip8 logo" width="200">  
 </p>
 
 <br />
@@ -10,7 +10,7 @@
 
 # PiLang CHIP-8
 
-A baseline CHIP-8 emulator written in [PiLang](https://pilang.netlify.app). It
+A baseline CHIP-8 emulator written in [PiLang](https://pi-lang.netlify.app). It
 runs standard raw `.ch8` ROMs loaded at address `0x200` and implements the
 64 by 32 display, built-in font sprites, delay and sound timers, the 16-key
 keypad, and the original CHIP-8 opcode set.
